@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littleguga/bnm.git"
+    "url": "git+https://github.com/bmanager/bnm.git"
   },
   "keywords": [
     "packet",
@@ -23,7 +23,7 @@
   "author": "littleguga",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/littleguga/bnm/issues"
+    "url": "https://github.com/bmanager/bnm/issues"
   },
-  "homepage": "https://github.com/littleguga/bnm#readme"
+  "homepage": "https://github.com/bmanager/bnm#readme"
 }
