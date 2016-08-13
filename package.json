@@ -1,0 +1,29 @@
+{
+  "name": "bnm",
+  "version": "0.0.1",
+  "description": "Built packets manager",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littleguga/bnm.git"
+  },
+  "keywords": [
+    "packet",
+    "manager",
+    "built",
+    "packets",
+    "manager"
+  ],
+  "author": "littleguga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littleguga/bnm/issues"
+  },
+  "homepage": "https://github.com/littleguga/bnm#readme"
+}
