@@ -1,4 +1,4 @@
-# bnm | built packets manager
+# bnm | built packages manager
 
 ## Installation
 
